@@ -1,4 +1,4 @@
-RMDUP_TARGETS = `{./targets}
+RMDUP_TARGETS = `{bin/targets}
 
 rmdup:EV:	$RMDUP_TARGETS
 
